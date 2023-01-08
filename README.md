@@ -1,1 +1,1 @@
-# lab6example
+# lab6
